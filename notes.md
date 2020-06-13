@@ -6,3 +6,7 @@ source: https://www.digitaltransgenderarchive.net/col/cj82k733h
 1. Use list of URLS with wget to download
 1. Add `.pdf` to filenames so they're recognized as pdfs.
 1. Use online converter for pdf to txt
+
+**Insert Image into Static Site**
+* NOT `![](url)` format
+* `<img src="imagename.PNG">`
