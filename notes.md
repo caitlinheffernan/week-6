@@ -3,6 +3,8 @@ source: https://www.digitaltransgenderarchive.net/col/cj82k733h
 
 Voyant: https://voyant-tools.org/?corpus=7035b47fe448e0fd6f47b1b62400b026
 
+Static site: https://kieranheffernan.github.io/Grace-and-Lace/intro
+
 **Steps to get textfiles**
 1. Get list of URLS using `https://www.digitaltransgenderarchive.net/downloads/` + object ID number
 1. Use list of URLS with wget to download
